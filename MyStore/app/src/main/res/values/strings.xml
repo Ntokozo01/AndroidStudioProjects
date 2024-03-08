@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Drink Catalogue</string>
+    <string name="header">Drinks Info:</string>
+    <string name="productName">Name</string>
+    <string name="productSize">Size</string>
+    <string name="sizeUnit">Unit</string>
+    <string name="zeroNumber">0</string>
+    <string name="productPrice">Price</string>
+    <string name="zeroDecimal">0.00</string>
+    <string name="productType">Type</string>
+    <string name="select">Select</string>
+    <string name="add">Add</string>
+    <string name="viewAll">View All</string>
+</resources>
